@@ -3,6 +3,5 @@
 int
 main(){
 	printf("Hello World\n\n");
-	printf("*-*");
 	return(0);
 }
